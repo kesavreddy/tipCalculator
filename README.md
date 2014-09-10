@@ -14,3 +14,6 @@ Completed user stories:
  
  Optional: None
  
+Walkthrough of all user stories:
+
+![Video Walkthrough](demo.gif)
